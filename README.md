@@ -9,6 +9,7 @@ This repository provides tools and analysis code to examine the impact of wildfi
   - [Folder Structure](#folder-structure)
     - [common-analysis](#common-analysis)
     - [respiratory-diseases](#respiratory-diseases)
+    - [Final Report.pdf](#final-reportpdf)
   - [Data Sources](#data-sources)
   - [Adopted Models](#adopted-models)
   - [Intermediate Data Files](#intermediate-data-files)
@@ -40,6 +41,9 @@ This folder contains the mortality analysis linking smoke exposure to respirator
 - **smoke-mortality-analysis.ipynb**: Examines the relationship between wildfire smoke and respiratory mortality. It includes:
   - Forecasting respiratory mortality trends using the projected Smoke Index.
   -  Development of a gender-specific analysis for mortality.
+
+### Final Report.pdf
+Contains pdf report detailing analysis and discussing implications 
 
 ## Data Sources
 
